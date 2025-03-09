@@ -18,7 +18,6 @@ When starting a project, ask yourself one question: is this a purely serverside 
 
 **Astro** and **Qwik** combine strengths by maintaining minimal JavaScript overhead at page load. Astro generates static HTML and selectively hydrates components through Qwik's resumability. This combination guarantees exceptional SEO and lightning-fast initial page loads, offering optimal performance without compromising interactive capabilities.
 
-
 ## 📲 Downloadable App (Client-Side)
 
 ### Solid + Capacitor
