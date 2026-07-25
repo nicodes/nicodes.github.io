@@ -1,3 +1,1 @@
-👋 Hi I'm Nico!
-
-https://nicodes.com
+👋 Hi I'm Nico! <https://nicodes.com>
